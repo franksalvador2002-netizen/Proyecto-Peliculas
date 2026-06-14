@@ -15,7 +15,7 @@
 CREATE DATABASE peliculas_bd;
 ```
 Configurar aplication properties
-spring.datasource.url=jdbc:mysql://localhost:3306/nombre_de_tu_bd
+spring.datasource.url=jdbc:mysql://localhost:3306/peliculas_bd
 spring.datasource.username=root
 spring.datasource.password=tu_password
 
