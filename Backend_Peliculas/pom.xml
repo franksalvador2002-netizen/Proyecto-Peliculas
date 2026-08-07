@@ -28,6 +28,7 @@
 	</scm>
 	<properties>
 		<java.version>21</java.version>
+                <start-class>com.Gestor.Peliculas.PeliculasApplication</start-class>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -120,3 +121,4 @@
 	</build>
 
 </project>
+
